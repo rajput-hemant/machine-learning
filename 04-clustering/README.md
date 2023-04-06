@@ -1,0 +1,3 @@
+# What is Clustering?
+  - Clustering is the process of grouping a set of objects in such a way that objects in the same group (called a cluster) are more similar (in some sense or another) to each other than to those in other groups (clusters).
+  - It is defined as grouping unlabeled data points into groups such that data points in the same group are more similar to each other than to those in other groups.
